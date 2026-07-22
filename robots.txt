@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://blog-if0v4q.sofarsewgood.co.uk/sitemap.xml
